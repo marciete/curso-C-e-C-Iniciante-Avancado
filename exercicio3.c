@@ -7,7 +7,7 @@ void main(){
 //para usar acentos
 setlocale(LC_ALL,"");
 
-//cire um algoritimo que leia 3 numeros inteiros de uma só vez
+//crie um algoritimo que leia 3 numeros inteiros de uma só vez
 // coloque o resultado da multiplicação entre os 3 em uma váriável própria
 //depois exiba essa variavel.
 
