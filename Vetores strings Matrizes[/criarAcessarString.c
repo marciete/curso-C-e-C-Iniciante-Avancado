@@ -24,7 +24,6 @@ void main(){
     //Imprime na tela
     printf("%s", palavra);
  
-    //Pausa o programa após executar
-    system("pause");
+
  
 }

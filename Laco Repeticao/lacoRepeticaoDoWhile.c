@@ -32,7 +32,7 @@ void main(){
  
     }while(a <= 10);
  
-    //Pausa o programa após executar
+    
     
  
 }
